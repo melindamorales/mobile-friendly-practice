@@ -1,0 +1,17 @@
+@media only screen and (max-width: 1024px){
+   header{
+       background-color: black;
+   }
+}
+
+@media only screen and (min-width: 768px){
+   header{
+       background-color: antiquewhite;
+   }
+}
+
+@media only screen and (max-width: 480px){
+   header{
+       background-color: burlywood;
+   }
+}
